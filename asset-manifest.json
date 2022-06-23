@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/loa-homework/static/css/main.4acd9b56.chunk.css",
+    "main.js": "/loa-homework/static/js/main.8cd82c38.chunk.js",
+    "main.js.map": "/loa-homework/static/js/main.8cd82c38.chunk.js.map",
+    "runtime-main.js": "/loa-homework/static/js/runtime-main.09ee9fcb.js",
+    "runtime-main.js.map": "/loa-homework/static/js/runtime-main.09ee9fcb.js.map",
+    "static/js/2.0885250b.chunk.js": "/loa-homework/static/js/2.0885250b.chunk.js",
+    "static/js/2.0885250b.chunk.js.map": "/loa-homework/static/js/2.0885250b.chunk.js.map",
+    "static/js/3.e38b1a54.chunk.js": "/loa-homework/static/js/3.e38b1a54.chunk.js",
+    "static/js/3.e38b1a54.chunk.js.map": "/loa-homework/static/js/3.e38b1a54.chunk.js.map",
+    "index.html": "/loa-homework/index.html",
+    "static/css/main.4acd9b56.chunk.css.map": "/loa-homework/static/css/main.4acd9b56.chunk.css.map",
+    "static/js/2.0885250b.chunk.js.LICENSE.txt": "/loa-homework/static/js/2.0885250b.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/loa-homework/static/media/1502.05fb1430.png",
+    "static/media/index.css": "/loa-homework/static/media/NotoSansKR-Thin.a3e74b5e.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09ee9fcb.js",
+    "static/js/2.0885250b.chunk.js",
+    "static/css/main.4acd9b56.chunk.css",
+    "static/js/main.8cd82c38.chunk.js"
+  ]
+}
