@@ -1,0 +1,138 @@
+.hw-container {
+  padding: 25px 50px;
+}
+
+.hw-header {
+  
+}
+
+.hw-btn-container {
+  margin-bottom: 20px;
+}
+
+.hw-contens {
+  display: flex;
+  width: fit-content;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.hw-contens .table-header { width: 200px; }
+.hw-contens .char-component { width: 200px; }
+.hw-contens.mod .table-header { width: 300px; }
+.hw-contens.mod .char-component { width: 250px; }
+
+.hw-contens .table-header {
+  border-right: 1px solid #bbb;
+  font-weight: bold;
+}
+
+.title-blank,
+.char-header-container {
+  height: 45px;
+  border-bottom: 1px solid #bbb;
+}
+.char-header-container {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9rem;
+}
+.char-header-container input[type="text"]{
+  height: 30px;
+}
+.char-header-container .btn-delete {
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.value-header-caontainer,
+.char-value-container {
+  display: flex;
+  align-items: center;
+  height: 45px;
+  border-bottom: 1px solid #bbb;
+}
+
+.value-header-caontainer {
+  justify-content: left;
+}
+.value-header-caontainer .header-icon {
+  display: block;
+  width: 27px;
+  height: 27px;
+  background-size: 27px !important;
+}
+.value-header-caontainer .header-title {
+  margin-left: 7px;
+}
+.value-header-caontainer input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  margin-left: 10px;
+}
+
+.char-value-container .cb-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+}
+.char-value-container .cb-area:hover {
+  background-color: #3E4045;
+  transition: 0.3s;
+}
+.char-value-container .cb-area input[type="checkbox"] {
+  width: 21px;
+  height: 21px;
+}
+
+/* 추가 버튼 */
+.hw-container .add-component {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.hw-container .add-component .char-add-btn {
+  width: 100px;
+  height: calc(100% - 45px);
+  padding: 0;
+  border: 1px solid #bbb;
+  background-color: #0E1015;
+  color: #fff;
+  font-size: 2.0rem;
+  cursor: pointer;
+}
+.hw-container .add-component .char-add-btn:hover {
+  background-color: #3E4045;
+  transition: 0.3s;
+}
+
+
+
+.value-header-caontainer .header-icon.id-1001 { background: url('/src/images/icons/header/1001.png'); }
+.value-header-caontainer .header-icon.id-1011 { background: url('/src/images/icons/header/1011.png'); }
+.value-header-caontainer .header-icon.id-1012 { background: url('/src/images/icons/header/1012.png'); }
+.value-header-caontainer .header-icon.id-1101 { background: url('/src/images/icons/header/1101.png'); }
+.value-header-caontainer .header-icon.id-1201 { background: url('/src/images/icons/header/1201.png'); }
+.value-header-caontainer .header-icon.id-1202 { background: url('/src/images/icons/header/1202.png'); }
+.value-header-caontainer .header-icon.id-1203 { background: url('/src/images/icons/header/1203.png'); }
+.value-header-caontainer .header-icon.id-1204 { background: url('/src/images/icons/header/1204.png'); }
+.value-header-caontainer .header-icon.id-1301 { background: url('/src/images/icons/header/1301.png'); }
+.value-header-caontainer .header-icon.id-1302 { background: url('/src/images/icons/header/1302.png'); }
+.value-header-caontainer .header-icon.id-1303 { background: url('/src/images/icons/header/1303.png'); }
+.value-header-caontainer .header-icon.id-1304 { background: url('/src/images/icons/header/1304.png'); }
+.value-header-caontainer .header-icon.id-1401 { background: url('/src/images/icons/header/1401.png'); }
+.value-header-caontainer .header-icon.id-1402 { background: url('/src/images/icons/header/1402.png'); }
+.value-header-caontainer .header-icon.id-1501 { background: url('/src/images/icons/header/1501.png'); }
+.value-header-caontainer .header-icon.id-1502 { background: url('/src/images/icons/header/1502.png'); }
+.value-header-caontainer .header-icon.id-1511 { background: url('/src/images/icons/header/1511.png'); }
+.value-header-caontainer .header-icon.id-4001 { background: url('/src/images/icons/header/4001.png'); }
+.value-header-caontainer .header-icon.id-4002 { background: url('/src/images/icons/header/4002.png'); }
+.value-header-caontainer .header-icon.id-5001 { background: url('/src/images/icons/header/5001.png'); }
